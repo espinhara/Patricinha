@@ -31,7 +31,7 @@
     </div>
     <img
       style="margin-bottom: 10px; margin-top: 10px"
-      src="..\assets\logo_muy_biela_rosa.webp"
+      src="..\assets\logo_muy_biela_rosa.png"
       alt=""
     >
     <div class="vitrine">
