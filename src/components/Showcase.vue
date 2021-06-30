@@ -3,7 +3,7 @@
     <!--TODO Arrumar imagem olenka para mobile... reduzir tamanho -->
     <img
       style="margin-bottom: 10px; height: 80px; margin-top: 10px"
-      src="..\assets\logo_olenka-min.png"
+      src="..\assets\olenka-min.png"
       alt=""
     >
     <div class="vitrine">
@@ -35,7 +35,7 @@
     </div>
     <img
       style="margin-bottom: 10px; margin-top: 10px"
-      src="..\assets\logo_muy_biela_rosa.png"
+      src="..\assets\muy_biela_rosa.png"
       alt=""
     >
     <div class="vitrine">
