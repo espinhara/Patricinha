@@ -42,8 +42,8 @@
             <p
               id="beneficiosItem"
               style="display: block"
-              v-html="product.benefits"
             />
+            {{ product.benefits }}
             <p
               id="servicosItem"
               style="display: none"
