@@ -34,12 +34,11 @@
         </router-link>
       </span>
     </div>
-    <!-- <img
-      style="margin-bottom: 10px; margin-top: 10px"
-      src="..\assets\muy_biela_rosa.png"
+    <img
+      style="margin-bottom: 10px; margin-top: 10px;" 
+      src="https://static.wixstatic.com/media/5ae693_af6ae2281cc54401936023c9f519a58f~mv2.png/v1/crop/x_429,y_648,w_1501,h_1129/fill/w_186,h_136,al_c,q_85,usm_0.66_1.00_0.01/logo%20muy%20biela%20rosa.webp" 
       alt=""
-    > -->
-    <p>Muy Biela</p>
+      >
     <div class="vitrine">
       <div
         v-for="prod in muyBiela"
