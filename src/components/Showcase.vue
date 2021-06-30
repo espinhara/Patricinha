@@ -1,11 +1,12 @@
 <template>
   <section>
     <!--TODO Arrumar imagem olenka para mobile... reduzir tamanho -->
-    <img
+    <!-- <img
       style="margin-bottom: 10px; height: 80px; margin-top: 10px"
       src="..\assets\olenka-min.png"
       alt=""
-    >
+    > -->
+    <p>Olenka</p>
     <div class="vitrine">
       <span
         v-for="prod in products"
@@ -33,11 +34,12 @@
         </router-link>
       </span>
     </div>
-    <img
+    <!-- <img
       style="margin-bottom: 10px; margin-top: 10px"
       src="..\assets\muy_biela_rosa.png"
       alt=""
-    >
+    > -->
+    <p>Muy Biela</p>
     <div class="vitrine">
       <div
         v-for="prod in muyBiela"
