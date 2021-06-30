@@ -44,7 +44,7 @@
               Figueiredo nº 882, Jardim Simus Sorocaba SP.
             </p>
             <p>
-              CEP: 18055-190 
+              CEP: 18055-132
             </p>
             <p>
               Fone e Whatsapp: 15 32221110. 
