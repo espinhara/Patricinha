@@ -11,8 +11,12 @@
         v-for="prod in products"
         :key="prod.id"
       >
-        <router-link :key="prod.id" class="produto" :to="`/productsOlenka/${prod.id}`">
-        <!-- <a
+        <router-link
+          :key="prod.id"
+          class="produto"
+          :to="`/productsOlenka/${prod.id}`"
+        >
+          <!-- <a
           
           class="produto"
           :href="'productsOlenka/'+prod.id"
