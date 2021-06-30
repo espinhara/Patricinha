@@ -1,12 +1,11 @@
 <template>
   <section>
     <!--TODO Arrumar imagem olenka para mobile... reduzir tamanho -->
-    <!-- <img
+    <img
       style="margin-bottom: 10px; height: 80px; margin-top: 10px"
-      src="..\assets\olenka-min.png"
+      src="https://olenkacosmeticos.com.br/wp-content/uploads/2020/03/logo_olenka-min.png"
       alt=""
-    > -->
-    <p>Olenka</p>
+    >
     <div class="vitrine">
       <span
         v-for="prod in products"
