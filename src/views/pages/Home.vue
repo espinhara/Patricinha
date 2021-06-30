@@ -4,17 +4,14 @@
     <a
       class="wpp-container"
       href="https://api.whatsapp.com/send?phone=551532221110&amp;text=Ol%C3%A1%2C%20tudo%20bem%3F%20eu%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20produtos"
-    ><img
-      src="../../assets/wppIcon.c34cca2a.png"
-      alt="WhatsApp"
-    >
+      ><img src="../../assets/wppIcon.c34cca2a.png" alt="WhatsApp" />
     </a>
     <main>
       <div class="ads">
         <img
           src="https://olenkacosmeticos.com.br/wp-content/uploads/2020/04/banner-hair-spray.jpg"
           alt=""
-        >
+        />
       </div>
       <Showcase />
       <Aboutme />
@@ -22,6 +19,7 @@
     <Footer />
   </div>
 </template>
+
 
 <script>
 /* eslint-disable */
