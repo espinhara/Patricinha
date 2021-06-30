@@ -9,7 +9,7 @@
     <main>
       <div class="ads">
         <img
-          src="https://olenkacosmeticos.com.br/wp-content/uploads/2020/04/banner-hair-spray.jpg"
+          src="https://olenkacosmeticos.com.br/wp-content/uploads/2020/02/mont_banner_produtos_blond_plex-1.jpg"
           alt=""
         />
       </div>
