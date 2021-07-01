@@ -39,7 +39,7 @@
       alt=""
       >
     <div class="vitrine">
-      <div
+      <span
         v-for="prod in muyBiela"
         :key="prod.id"
         class="produto"
@@ -56,9 +56,9 @@
               alt=""
             >
           </div>
-          <strong>{{ prod.name }}</strong>
+          <strong>{{ prod.name.substring(0,20)+"..." }}</strong>
         </router-link>
-      </div>
+      </span>
     </div>
   </section>
 </template>
