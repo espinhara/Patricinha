@@ -14,6 +14,19 @@
         Beleza, distribuidores autorizados Olenka e South Liss, atendendo
         Sorocaba e Região.
       </p>
+      <p>
+        Endereço: Avenida Doutor Américo
+        Figueiredo nº 882, Jardim Simus Sorocaba SP.
+      </p>
+      <p>
+        CEP: 18055-132
+      </p>
+      <p>
+        Fone e Whatsapp: 15 32221110. 
+      </p>
+      <p>
+        CNPJ: 29.618.280/0001-88  
+      </p> 
     </section>
   </div>
 </template>
