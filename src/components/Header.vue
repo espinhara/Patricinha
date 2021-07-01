@@ -32,6 +32,7 @@
       <a
         target="_blank"
         rel="noopener noreferrer"
+        style="text-decoration: none;"
         href="https://api.whatsapp.com/send?phone=551532221110"
       >
         <h1>Fale Conosco</h1>
