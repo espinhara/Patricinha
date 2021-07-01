@@ -5,16 +5,18 @@
       rel="stylesheet"
     >
     <div>
-      <img
-        src="../assets/logopt1.7e080f83.png"
-        alt=""
-        srcset=""
-      >
-      <img
-        src="../assets/download.png"
-        alt=""
-        srcset=""
-      >
+      <a href="/">
+        <img
+          src="../assets/logopt1.7e080f83.png"
+          alt=""
+          srcset=""
+        >
+        <img
+          src="../assets/download.png"
+          alt=""
+          srcset=""
+        >
+      </a>
     </div>
     <nav>
       <a
