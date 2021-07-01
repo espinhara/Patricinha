@@ -83,7 +83,7 @@
 </template>
 <script>
 /* eslint-disable */
-import PoductsMuyBiela from "../../utils/poductsMuyBiela";
+import PoductsMuyBiela from "../../utils/productsMuyBiela";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 export default {

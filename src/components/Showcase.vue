@@ -65,7 +65,7 @@
 
 <script>
 /* eslint-disable */
-import ProductsMuyBiela from "../utils/poductsMuyBiela";
+import ProductsMuyBiela from "../utils/productsMuyBiela";
 export default {
   data() {
     return {
