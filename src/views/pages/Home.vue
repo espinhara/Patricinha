@@ -310,7 +310,7 @@ export default {
 .product-image {
   display: flex;
   height: 28rem;
-  width: 28rem;
+  /* width: 28rem; */
 }
 @media (max-width: 800px) {
   .product-container {
@@ -361,6 +361,7 @@ input {
 h1 {
   font-family: "Lato", sans-serif;
   font-weight: 900;
+  font-size: 2rem;
 }
 .container {
   width: 90vw;
