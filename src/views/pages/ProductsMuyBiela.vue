@@ -19,9 +19,9 @@
                 class="nav-button nav-button-selected"
                 @click="clickTab('beneficios')"
               >
-                BENEFÍCIOS
+                INFORMAÇÕES
               </button>
-              <button
+              <!-- <button
                 id="servicos"
                 class="nav-button"
                 @click="
@@ -37,14 +37,15 @@
                 @click="clickTab('modo_de_uso')"
               >
                 MODO DE USO
-              </button>
+              </button> -->
             </nav>
             <p
               id="beneficiosItem"
-              style="display: block"
-            />
-            {{ product.benefits }}
-            <p
+              style="display: block;"
+            >
+            {{ product.information }}
+            </p>
+            <!-- <p
               id="servicosItem"
               style="display: none"
             >
@@ -55,7 +56,7 @@
               style="display: none"
             >
               {{ product.howtouse }}
-            </p>
+            </p> -->
           </div>
           <a
             target="_blank"
