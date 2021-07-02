@@ -22,19 +22,19 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-6 col-md-3 item">
-            <h3>Serviços</h3>
+            <h3>Produtos</h3>
             <ul>
-              <li><a href="#">Web design</a></li>
-              <li><a href="#">Development</a></li>
-              <li><a href="#">Hosting</a></li>
+              <li><a href="/#olenka">Olenka</a></li>
+              <li><a href="/#muy_biela">Muy Biela</a></li>
+              <!-- <li><a href="#">Hosting</a></li> -->
             </ul>
           </div>
           <div class="col-sm-6 col-md-3 item">
-            <h3>Sobre</h3>
+            <h3>Menu</h3>
             <ul>
-              <li><a href="#">Company</a></li>
-              <li><a href="#">Team</a></li>
-              <li><a href="#">Careers</a></li>
+              <li><a href="/">Início</a></li>
+              <li><a href="/#quemsomos">Quem Somos</a></li>
+              <li><a target="_blank" href="https://api.whatsapp.com/send?phone=551532221110">Fale Conosco</a></li>
             </ul>
           </div>
           <div class="col-md-6 item text">
