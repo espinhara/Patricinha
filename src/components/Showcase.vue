@@ -1,11 +1,14 @@
 <template>
   <section>
     <!--TODO Arrumar imagem olenka para mobile... reduzir tamanho -->
-    <img
-      style="margin-bottom: 10px; height: 80px; margin-top: 10px"
-      src="https://olenkacosmeticos.com.br/wp-content/uploads/2020/03/logo_olenka-min.png"
-      alt=""
-    >
+    <div id="olenka">
+      <img
+        style="margin-bottom: 10px; height: 80px; margin-top: 10px"
+        src="https://olenkacosmeticos.com.br/wp-content/uploads/2020/03/logo_olenka-min.png"
+        alt=""
+      >
+
+    </div>
     <div class="vitrine">
       <span
         v-for="prod in products"
@@ -33,11 +36,13 @@
         </router-link>
       </span>
     </div>
-    <img
-      style="margin-bottom: 10px; margin-top: 10px;" 
-      src="https://static.wixstatic.com/media/5ae693_af6ae2281cc54401936023c9f519a58f~mv2.png/v1/crop/x_429,y_648,w_1501,h_1129/fill/w_186,h_136,al_c,q_85,usm_0.66_1.00_0.01/logo%20muy%20biela%20rosa.webp" 
-      alt=""
-      >
+    <div id="muy_biela">
+      <img
+        style="margin-bottom: 10px; margin-top: 10px;" 
+        src="https://static.wixstatic.com/media/5ae693_af6ae2281cc54401936023c9f519a58f~mv2.png/v1/crop/x_429,y_648,w_1501,h_1129/fill/w_186,h_136,al_c,q_85,usm_0.66_1.00_0.01/logo%20muy%20biela%20rosa.webp" 
+        alt=""
+        >
+    </div>
     <div class="vitrine">
       <span
         v-for="prod in muyBiela"
