@@ -361,7 +361,7 @@ input {
 h1 {
   font-family: "Lato", sans-serif;
   font-weight: 900;
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 .container {
   width: 90vw;
